@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'itsharrish',
+  github: 'Delphievil',
+  linkedin: 'harrishraj',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -75,6 +75,8 @@ export default siteConfig({
     '/skylo-s10-gap-closing-plan-labs': '4022072f672b81ff929cfeeec63411b5',
     '/skylo-s11-quiz-bank-mock-scenarios': '4022072f672b812486e8df71f7b3145f',
     '/skylo-s12-glossary-fast-reference': '4022072f672b81308cc6e56cd23c8f47',
+    '/skylo-round-3-panel-case-studies-group-discussion': '4152072f672b817a8030f8aa09d2a936',
+    '/skylo-round-4-senior-director-round': '4152072f672b81fa9d05ed2e0f04c37a',
 
     // ===== Archived (parent) =====
     '/archived-earlier-interview-prep': '4082072f672b81d294d3fff430b41b15',
